@@ -1,0 +1,17 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.one{ 
+    color: red;
+
+}
+.two{
+    color: blue;
+}
+.three{
+    color: green;
+}
+.four{
+    color: yellow;
+}
